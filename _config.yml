@@ -32,7 +32,7 @@ project:
   cover_image:    http://s24.postimg.org/sg2fx867p/CS_Github_Cover_07.jpg
   #
   # Use a one-liner to describe your project
-  description:    Circuit Scribe is a rollerball pen with conductive silver ink. Building circuits is as easy as doodling.
+  description:    
 #
 # 4. Your Twitter handle
 twitter_handle:   Electroninks
@@ -42,7 +42,7 @@ google_analytics:
 #
 # 6. Welcome text, add <br /> to break lines
 welcome_text:     |
-  Circuit Scribe is live on KICKSTARTER! <br />
+  Circuit Scribe is a pen that draws circuits instantly and it's live on KICKSTARTER! <br />
   We can't wait to get Circuit Scribe into your hands and see what you MAKE!   <br />
-  But we need your help to make it happen! <br /> Please pick up a pen & a kit, and most importantly,
+  But we need your help to make it happen. <br /> Please pick up a pen & a kit, and most importantly,
   SHARE with your friends!  <br /> Thank you! - The Electroninks Team
